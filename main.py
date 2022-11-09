@@ -1,5 +1,5 @@
 """
-Ini berkas scraping mengunakan plugin scrapy, tetapi belum bisa cetak sampai file csv
+Ini berkas scraping mengunakan plugin scrapy, dengan output file csv
 """
 import scrapy
 
