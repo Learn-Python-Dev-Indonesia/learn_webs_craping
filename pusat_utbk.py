@@ -14,7 +14,7 @@ class QuotesSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-       for i in range (1, 175):
+       for i in range (1, 75):
        # for sekolah in response.css('.table > tbody:nth-child(2)'):
             yield {
                 'Nomer' : response.css('.col-md-10 > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child('+ str(i) +') > td:nth-child(1)::text').extract(),
@@ -26,4 +26,4 @@ class QuotesSpider(scrapy.Spider):
                 'Email' : response.css('.col-md-10 > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child('+ str(i) +') > td:nth-child(7)::text').extract(),
 
             }
-#
+# .col-md-10 > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(5)
