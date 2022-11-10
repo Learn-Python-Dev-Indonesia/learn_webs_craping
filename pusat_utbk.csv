@@ -1,0 +1,269 @@
+Nomer,Kode,Nama,Alamat,Kode Pos,No Telpon,Email
+,,,,,,
+1,111, Universitas Syiah Kuala,"Gedung ICT Center, Jl. Syekh Abdul Rauf No.2,
+			Darussalam, Banda Aceh",23111, (0651) 6303969, utbk@unsyiah.ac.id
+2,112, Universitas Malikussaleh,"UPT Pusat Komputer Jl. Irian No. 1,
+			Komplek Kampus Bukit Indah, Blamg Pulo - Lhokseumawe",24355, 0852-7713-4765, utbk@unimal.ac.id
+3,113, Universitas Teuku Umar,"Universitas Teuku Umar UPT. TIK. Gedung F,
+			Jl. Alue Peunyareng, Ujong Tanoh Darat, Meureubo,
+			Kabupaten Aceh Barat",23615, 085262464609, utbk@utu.ac.id
+4,114, Universitas Samudra,"Ruang Kesekretariatan Penerimaan Mahasiswa Baru,
+			Gedung Biro Rektor Universitas Samudra, Meurandeh,
+			Kota Langsa - Aceh",24416, 085296969201, utbk@unsam.ac.id
+5, 115 , Institut Seni Budaya Indonesia  Aceh,"Jl. Banda Aceh Medan Km. 8,5 Desa Ujong XII,
+			Kec. Ingin Jaya Kabupaten Aceh Besar",23911, (0651) 92023, utbk@isbiaceh.ac.id
+6,121, Universitas Sumatera Utara,"Pusat Pelayanan Terpadu, Gedung Biro Pusat Administrasi Lantai 1 Kampus USU Padang Bulan,
+			Jalan dr. T. Mansyur No. 9",20155," 085362716693,
+			", puml@usu.ac.id
+7,122,Universitas Negeri Medan,"Ruang VIP Room Gedung Serbaguna Unimed,
+			Jalan Willem Iskandar Pasar V Medan Estate",20221, (0616) 613365, utbk@unimed.ac.id
+8,131, Universitas Riau,"Sekretariat UTBK SBMPTN, Gedung Rektorat Lantai 2 Kampus Bina Widya Km 12,5 Simpang Baru Pekanbaru",28293, (0761) 63266, utbk.sbmptn@unri.ac.id
+9,133, Universitas Maritim Raja Ali Haji ,Jalan Politeknik Senggarang Tanjungpinang,29115, (0771) 4500089, utbk@umrah.ac.id
+10,141, Universitas Andalas,"Gedung Rektorat Universitas Andalas,
+			Kampus Limau Manis Padang",25163, (0751) 71301, sekre.wr1@unand.ac.id
+11,142, Universitas Negeri Padang,"Gedung Rektorat Lama Bagonjong Lt. 1,
+			Jalan Prof. Dr. Hamka Air Tawar Padang ",25132, (0751) 7051260, utbk@unp.ac.id
+12,143, Institut Seni Indonesia Padang Panjang,"Gedung Rektorat Jl. Bahder Johan, Kota Padangpanjang Sumatera Barat",27128, (0752) 82077,utbk@isi-padangpanjang.ac.id
+13,151, Universitas Jambi,"Gedung Balairung Lantai 2 Kampus UNJA Mendalo,
+			Jl. Raya Jambi - Muara Bulian Km.15 Mendalo Indah Jambi ",36361, +62 823-5916-6545, pusat_utbk_unja@unja.ac.id
+14,161, Universitas Bengkulu,"Rektorat Universitas Bengkulu, Jalan WR Supratman Kandang Limun Bengkulu",38371, (0736) 21170, snmptn.utbk@unib.ac.id
+15,171, Universitas Sriwijaya,"Gedung Graha Sriwijaya Lt. 1 Kampus UNSRI Bukit Besar,
+			Jalan Srijaya Negara Bukit Besar Palembang",30139,"
+			,
+			", utbk@unsri.ac.id
+16,181, Universitas Bangka Belitung ,"UPT TIK, Gedung Babel IV Kampus Terpadu,
+			Universitas Bangka Belitung ",33172," (0717) 422145,
+			 081373539227",bakk@ubb.ac.id
+17,191, Universitas Lampung,Gedung UPT. TIK Unila Jl. Soemantri Brojonegoro No.1 Gedung Meneng Bandar Lampung,35145, 081211389261, simanila@kpa.unila.ac.id
+18,192, Institut Teknologi Sumatera,"Jalan Terusan Ryacudu, Desa Way Hui,
+			Kecamatan Jati Agung, Lampung Selatan ",35365," Telp: (0721) 8030188,
+			HP : 08583171276", pmb@itera.ac.id
+19,311, Universitas Sultan Ageng Tirtayasa ,Jl. Raya Jakarta km.4 Pakupatan Serang Banten,42124," (0254) 280330,
+			 087871261263", utbk@untirta.ac.id
+20,321, Universitas Indonesia,"Gedung Penerimaan Mahasiswa Baru (PMB) UI,
+			Jl. Prof. Dr. Sujudi, Kampus UI Depok, Jawa Barat",16424, (021) 7864126, sekretariat.pmb@ui.ac.id
+21,323, Universitas Negeri Jakarta,"Kampus A UNJ, Gedung D, Pustikom Lt.1,
+			Jl. Rawamangun Muka, RT.11/RW.14, Rawamangun,
+			Pulo Gadung, Kota Jakarta Timur",13220," 
+			,
+			", utbk@unj.ac.id
+22,324, Universitas Pembangunan Nasional Veteran Jakarta,"Kampus UPNVJ Pondok Labu, Jl. RS. Fatmawati No.1,
+			Pondok Labu Jakarta Selatan,
+			Gedung Rektorat Lantai 1 Ruang Nusantara 2",12450, (021) 7699431, utbk@upnvj.ac.id
+23,331, Universitas Singaperbangsa Karawang ,"Jalan H.S. Ronggowaluyo, Telukjambe Timur,
+			Kab. Karawang, Propinsi Jawa Barat.",41361, (0267) 641177, utbk@unsika.ac.id
+24,332, Institut Teknologi Bandung,Kantor Wakil Rektor Bidang Akademik dan Kemahaiswaan CCAR ITB lantai 4 Jalan Tamansari no 64 Bandung,40116, (022) 2530689, dirdik@ditdik.itb.ac.id
+25,333, Universitas Padjadjaran,"Unit Layanan Terpadu (ULT) Lantai Dasar,
+			Gedung Rektorat Universitas Padjadjaran,
+			Jalan Ir. Soekarno Km. 21 Jatinangor, Sumedang 45363,
+			d/h Jalan Raya Bandung-Sumedang Km. 21,
+			Pelayanan hari Senin-Jumat dan jam kerja 08.30-15.00 WIB",45363, (022) 84288888, smup@unpad.ac.id
+26,334, Universitas Pendidikan Indonesia,"Divisi RMB Direktorat Akademik UPI,
+			Jalan Dr. Setiabudhi no 229 Bandung ",40154," (022) 2013753,
+			 Tel/WA: 085156368226,
+			 WA saja: 08112096229", pusat.utbk@upi.edu
+27,335, Institut Seni Budaya Indonesia Bandung,Jalan Buahbatu No.212 Bandung,40265," (022) 7314982,
+			 081802212208", utbk@isbi.ac.id
+28,341, Institut Pertanian Bogor,"DSITD IPB Kampus IPB Dramaga,
+			Gedung B Perpustakaan Lantai 3",16680, (0251) 8623936, utbk-ipb@apps.ipb.ac.id
+29,342, Universitas Siliwangi,"UPT TIK Universitas Siliwangi Gedung Rektorat Lt. 2,
+			Jl. Siliwangi No.24 Kota Tasikmalaya ",46115, (0265) 330634, pmb@unsil.ac.id
+30,351, Universitas Jenderal Soedirman,"Gedung SPMB Komplek Rektorat UNSOED,
+			Jl. Prof HR Bunyamin 708 Purwokerto Jawa Tengah",53122," Telp: 0281) 635292 ext.131, 119, 122,
+			WA : 0895800400111", spmb@unsoed.ac.id
+31,352, Universitas Tidar,"Humas (BAKPK) Universitas Tidar,
+			Jl. Kapten Suparman 39, Magelang, Jawa Tengah ",56116, (0293) 364113, utbk@untidar.ac.id
+32,353, Universitas Sebelas Maret,"Gedung SPMB UNS Jl. Ir Sutami 36 a,
+			Kentingan Jebres Surakarta ",57126, (0271) 634880, spmb@unit.uns.ac.id
+33,354, Institut Seni Indonesia Surakarta,"Kampus I ISI Surakarta, Gedung Akademik Pusat Lantai II,
+			Jl. Ki Hajar Dewantara No.19 Kentingan Jebres Surakarta ",57126, (0271) 647658, utbk@gm.isi-ska.ac.id
+34,355, Universitas Diponegoro,"Sekretariat Penerimaan Mahasiswa Baru,
+			Gedung ICT Center, Lantai 1, Jl. Prof. Soedarto SH.,
+			Kampus Tembalang, Semarang",50275, (0247) 460041, utbk@live.undip.ac.id
+35,356, Universitas Negeri Semarang,"Gedung Prof. Retno Sriningsih Satmoko,
+			Ruang Mendut, Lantai 1 LP2M UNNES,
+			Kampus Sekaran, Gunungpati, Semarang",50229, (024)86008700 ext 000, utbk@mail.unnes.ac.id
+36,361, Universitas Gadjah Mada,"Direktorat Pendidikan dan Pengajaran UGM,
+			Jl. Pancasila, Bulaksumur, Yogyakarta",55281, (0274) 551222, pusat.utbk@ugm.ac.id
+37,362, Universitas Negeri Yogyakarta,"Kantor Layanan Admisi ,
+			Gedung IKA UNY, Lt.1 ,
+			Jl. Colombo No.1 Yogyakarta ",55281,(0274) 548811 / (0274) 4605001, pmb@uny.ac.id
+38,363, Universitas Pembangunan Nasional  Veteran Yogyakarta,Bagian Humas Gedung Rektorat Jl SWK 104 (Lingkar Utara) Condongcatur Depok Sleman Yogyakarta  ,55283," (0274) 486733,
+			 08112656484,
+			 Fax.: (0274) 486400", ltmpt.pmb@upnyk.ac.id
+39,364, Institut Seni Indonesia Yogyakarta,"Bagian Pendidikan Gedung Rektorat Lantai 1 ISI Yogyakarta,
+			Jl. Parangtritis Km. 6,5 Sewon, Bantul, D.I. Yogyakarta",55188, (0274) 379133, utbk@isi.ac.id
+40,371, Universitas Jember,"Bagian Akademik Kantor Pusat, Universitas Jember,
+			Jl. Kalimantan No.37 Jember",68121, (0331) 335055, utbk@unej.ac.id
+41,372, Universitas Brawijaya,"Direktorat Administrasi dan Layanan Akademik,
+			Universitas Brawijaya,
+			Gedung Rektorat lt 2.,
+			Jl. Veteran Kota Malang.",65145,(0341) 575754, utbk@ub.ac.id
+42,373, Universitas Negeri Malang,Bagian Akademik - Gedung Graha Rektorat Lantai 2 Universitas Negeri Malang - Jl. Semarang no. 5 Malang,65145, (0341) 551312, utbk@um.ac.id
+43,381, Universitas Airlangga,"Kantor PPMB, Gedung ACC (Airlangga Convention Center) Kampus C UNAIR Jl. Mulyorejo Surabaya",60115,"085335781742,
+			", utbk@ditsi.unair.ac.id
+44,382, Institut Teknologi Sepuluh Nopember,"Direktorat Pendidikan ITS Gedung KPA dr. Angka Lantai 1,
+			Kampus ITS Sukolilo Surabaya",60111," (031)5994251-5994254,
+			 Ext.1012,
+			 (031) 5947213,
+			 081357644598", utbk@its.ac.id
+45,383, Universitas Negeri Surabaya,"Gedung Rektorat Lt. 1 Kantor ULT Kampus Unesa,
+			Jl. Lidah Wetan Surabaya ",60213, (031) 99425705, utbk@unesa.ac.id
+46,384, Universitas Trunojoyo,"Gedung Rektorat lantai 1,
+			Kampus Universitas Trunojoyo Madura,
+			Jl. Raya Telang PO Box 2 Kamal - Bangkalan",69162, 0811-3003-123, utbk@trunojoyo.ac.id
+47,385, Universitas Pembangunan Nasional Veteran Jawa Timur,"UPT TIK, Gedung Giri Pustaka Lantai 1,
+			Jl. Raya Rungkut Madya, Gunung Anyar, Surabaya",60294," 0895400088030,
+			082131587514", pusatutbk@upnjatim.ac.id
+48,511, Universitas Tanjungpura,Jln. Prof. DR. H. Hadari Nawawi Pontianak,78124, (0561) 739630, utbk@untan.ac.id
+49,521, Universitas Palangka Raya,"Kampus Tanjung Nyaho Jalan Yos Sudarso,
+			(Gedung Rektorat UPR)",73111," 08115208528,,
+			08113238685,,
+			085249533999", utbk@upr.ac.id
+50,531, Universitas Lambung Mangkurat,"Biro Akademik dan Kemahasiswaan ULM,
+			Gedung Rektorat Lantai 1,
+			Jl. Brigjen H. Hasan Basri, Kayu Tangi, Banjarmasin",70124, Telp.: (0511) 3306694 / 08115000531, sekretariat.pmb@ulm.ac.id
+51,541, Universitas Mulawarman,"Bagian Akademik, Gedung Rektorat UNMUL,
+			Jalan Kuaro Kampus Gunung Kelua, Kota Samarinda",75119, 08115558220, utbk@unmul.ac.id
+52,542, Institut Teknologi Kalimantan,"Kampus ITK Gedung A, Jl Soekarno hatta KM 15,
+			Karang Joang, Balikpapan Utara",76127," (0542) 8530800,
+			 (0542) 8530801", utbk@itk.ac.id
+53,551, Universitas Borneo Tarakan,"Jl. Amal Lama No 1 Tarakan,
+			Gedung Rektorat Lantai 1 Ruang.BAKK",77123, 082148247123, pmb@borneo.ac.id
+54,611, Universitas Udayana,"Biro Akademik, Kerjasama & Hubungan Masyarakat (BAKHM) Gedung Rektorat Kampus Bukit Jimbaran Lt.1",80362, (0361) 701954, baa@unud.ac.id
+55,612, Universitas Pendidikan Ganesha,Jalan Udayana No 11 Singaraja,81116, (0362) 22570, utbk@undiksha.ac.id
+56,613, Institut Seni Indonesia Denpasar, Jl. Nusa Indah Denpasar,80235, (0361) 227316, akademik@isi-dps.ac.id
+57,621, Universitas Mataram ,Jalan Majapahit Nomor 62 Mataram – Nusa Tenggara Barat,83125," Tlp.(0370) 633007,
+			 Fax.(0370) 636041,
+			 HP.081809169674", utbk-ptn621@unram.ac.id
+58,631, Universitas Nusa Cendana,"Jl. Adisucipto, Kampus Undana, Penfui, Kupang NTT",85001, (0380) 881580, utbk@undana.ac.id
+59,632, Universitas Timor,"Jl. KM 09 Kelurahan Sasi, Kefamenanu, Kabupaten TTU",85613, 082145898779, utbk@unimor.ac.id
+60,711, Universitas Hassanuddin,Biro Administrasi Akademik Gedung Rektorat Lantai 7 UNHAS Jl. Perintis Kemerdekaan KM.10 Makassar,90245,"(0411) 586006,,
+			+62 887-0459-1581",helpdeskakademik@unhas.ac.id
+61,712, Universitas Negeri Makassar,"ICT Center, Menara Pinisi UNM, Sayap B Lt.2,
+			Jl. AP Pettarani Makassar",90222, 08152549456, utbk@unm.ac.id
+62,721, Universitas Sam Ratulangi,"Gedung Biro Akademik dan Kemahasiswaan UNSRAT Lt.1,
+			Jl. Kampus Bahu, Manado",95115, (0431) 864832, akademik@unsrat.ac.id
+63,722, Universitas Negeri Manado,Pusat Komputer UNIMA,95618, 085342657007, utbk@unima.ac.id
+64,731, Universitas Tadulako,Jl. Soekarno Hatta Km 9 Palu Sulawesi Tengah,94118," Telp.:(0451) 422611, ,
+			Telp/WA: 0811453448, 081354330888", utbk@untad.ac.id
+65,741, Universitas Sulawesi Barat,"Jalan Prof. Dr. Baharuddin Lopa, SH, MH Talumung ",91412," 085214578527,
+			 085255923789", utbk@unsulbar.ac.id
+66,751, Universitas Haluoleo,"Gedung Pusat Teknologi Informasi dan Komunikasi,
+			Jl. HEA Mokodompit Kampus Hijau Bumi Tridharma, Kendari",93231, 082395669583, utbk@uho.ac.id
+67,752, Universitas Negeri Gorontalo,"Jl. Jenderal Sudirman No 6,
+			Dulalowo Timur Kota Tengah Kota Gorontalo",96128," Tlp.(0435) 821125,
+			 Fax.(0435) 821752", utbk@ung.ac.id
+68,753, Universitas Sembilanbelas November Kolaka,Jl. Pemuda No. 339 Kel. Tahoa Kolaka Sulawesi Tenggara,93517, (0405) 2321132, rektorat@usn.ac.id
+69,811, Universitas Pattimura,"Gedung Rektorat, Jl. Ir. M. Putuhena, Gedung Rektorat Kampus Poka - UNPATTI",97233, (0911) 322626, utbk@unpati.ac.id
+70,821, Universitas Khairun,"Gedung Rektorat Universitas Khairun,
+			Jl. Pertamina Kampus II Unkhair Gambesi Kota Ternate",97719, (0921) 3110905,univ.khairun@unkhair.ac.id
+71,911, Universitas Cenderawasih (Jayapura),"Rektorat Universitas Cenderawasih,
+			Jl Kamp Wolker Yabansai Kota Jayapura",99351, (0967) 572101, utbk@uncen.ac.id
+72,912, Universitas Musamus Merauke,"Universitas Musamus, Jl. Kamizaun Mopah Lama No.1 (Gedung Rektorat)",99611, (0971) 325923, ltmpt@unmus.ac.id
+73,913, Institut Seni Budaya Indonesia Tanah Papua,"Jl. Raya sentani km 17.8, Waena, Heram, Jayapura,
+			(kompleks UPTD Taman Budaya Propinsi Papua)",99358," (0967) 591130,
+			 (0967) 5170942,
+			 081393372199,
+			 085259360657", tanahpapua.isbi@gmail.com
+74,921, Universitas Papua ,"Biro Perencanaan, Akademik, dan Kemahasiswaan (BPAK) Universitas Papua",98314," 082238632952,
+			 085254081550", utbk@unipa.ac.id
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
