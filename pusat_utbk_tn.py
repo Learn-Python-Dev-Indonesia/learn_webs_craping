@@ -17,10 +17,10 @@ class QuotesSpider(scrapy.Spider):
        for i in range (1, 52):
        # for sekolah in response.css('.table > tbody:nth-child(2)'):
             yield {
-                'Nomer' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(1)::text').extract(),
-                'Kode' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(2)::text').extract(),
-                'Nama' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(3)::text').extract(),
-                'Alamat' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(4)::text').extract(),
+                'Nomer' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child('+ str(i) +') > td:nth-child(1)::text').extract(),
+                'Kode' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child('+ str(i) +') > td:nth-child(2)::text').extract(),
+                'Nama' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child('+ str(i) +') > td:nth-child(3)::text').extract(),
+                'Alamat' : response.css('.col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child('+ str(i) +') > td:nth-child(4)::text').extract(),
             }
 # Nomer
 # .col-md-10 > div:nth-child(4) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(1)
